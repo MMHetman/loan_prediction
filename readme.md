@@ -1,5 +1,4 @@
-# Zadanie rekrutacyjne
-
+# Predykcja spłaty kredytu
 *Uwaga: dane w projekcie zawrto w katalogu "data/", ze względu na ich wielkość, nie zostały zawarte w repozytorium. W rzeczywsistym projekcie warto by było skorzystać z DVC (jednak nie jest to dobrze mi znana technologia)*
 *Uwaga: omyłkowo zakodowano 'Fully paid' jako 1 - uwzględniono to przy modelowaniu*
 ## Kroki realizacji projektu Data Science
